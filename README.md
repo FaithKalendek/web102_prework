@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='<link>WEB102_Prework_FaithKalendek.gif</link>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WEB102_Prework_FaithKalendek.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
